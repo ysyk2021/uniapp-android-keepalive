@@ -1,4 +1,7 @@
-# uniapp-android-keepalive
-uniapp保活插件android保活，后台保活
+# uniapp保活插件
+uniapp保活插件，安卓保活插件，android后台保活
 
 如有需要，请联系，QQ：1020680508
+
+解决安卓端app切换后台、锁屏之后，系统经常会杀死app，导致app定时任务、持续定位等无法正常运行
+
